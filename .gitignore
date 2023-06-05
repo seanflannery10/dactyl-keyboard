@@ -18,6 +18,7 @@ debug_*
 *.py[cod]
 *~$*
 things/
+things/*.dxf
 things/*.scad
 things/*.step
 things/*.stl
