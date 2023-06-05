@@ -17,6 +17,7 @@ debug_*
 */__pycache__/*
 *.py[cod]
 *~$*
+things/*.txt
 config/
 .iml
 **/*.iml
