@@ -7,7 +7,6 @@
 .lein-*
 *.gcode
 *.scad
-*.dxf
 /target
 .idea/
 .idea
