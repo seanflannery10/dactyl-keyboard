@@ -105,7 +105,7 @@
     "base_offset": 3.0,
     "base_rim_thickness": 3.0,
     "screw_cbore_diameter": 6.0,
-    "screw_cbore_depth": 2.0,
+    "screw_cbore_depth": 1.5,
     "controller_mount_type": "EXTERNAL",
     "controller_side": "both",
     "external_holder_height": 12.5,

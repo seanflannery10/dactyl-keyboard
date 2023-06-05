@@ -1,10 +1,47 @@
 {
-    "save_dir": "./things/3x5_Whole_Matrix/",
+    "save_dir": "./things/Whole_Matrix_3x5/",
     "save_name": "DM_3x5",
     "nrows": 3,
     "ncols": 5,
     "full_last_rows": true,
     "all_last_rows": true,
     "external_holder_xoffset": -5.0,
-    "external_holder_yoffset": -8.0
+    "external_holder_yoffset": -8.0,
+    "screw_offsets": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            4.5,
+            -25,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            1.5,
+            -1,
+            0
+        ],
+        [
+            4,
+            -20,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ]
 }
