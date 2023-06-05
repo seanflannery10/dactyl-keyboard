@@ -1,8 +1,8 @@
 {
-    "save_dir": "./things/3x5_Whole_Matrix/",
-    "save_name": "DM_3x5",
+    "save_dir": "./things/3x6_Whole_Matrix/",
+    "save_name": "DM_3x6",
     "nrows": 3,
-    "ncols": 5,
+    "ncols": 6,
     "full_last_rows": true,
     "all_last_rows": true,
     "external_holder_xoffset": -5.0,

@@ -1,5 +1,3 @@
-#SHELL := /bin/sh
-
 .DEFAULT_GOAL := help
 
 help: ## Print this help message.
@@ -10,6 +8,14 @@ build-3x5:
 	(source $$(conda info --base)/etc/profile.d/conda.sh; conda activate dactyl-keyboard; python src/dactyl_manuform.py --config main --override 3x5)
 .PHONY: build-3x5
 
-build: build-3x5
+build-3x6:
+	(source $$(conda info --base)/etc/profile.d/conda.sh; conda activate dactyl-keyboard; python src/dactyl_manuform.py --config main --override 3x6)
+.PHONY: build-3x5
+
+build-4x6:
+	(source $$(conda info --base)/etc/profile.d/conda.sh; conda activate dactyl-keyboard; python src/dactyl_manuform.py --config main --override 4x6)
+.PHONY: build-4x6
+
+build: build-3x5 build-3x6 build-4x6
 	exit 0
 .PHONY: build
