@@ -23,7 +23,7 @@ build-5x6:
 .PHONY: build-5x6
 
 build: build-4x5 build-4x6 build-5x6 ## Build keyboards using conda
-	exit 0
+	rm things/*/*.txt
 .PHONY: build
 
 check-requirements:
