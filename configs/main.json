@@ -1,0 +1,199 @@
+{
+    "ENGINE": "cadquery",
+    "save_dir": "./things/4x6",
+    "save_name": "DM_4x6",
+    "config_name": "main",
+    "branch": "",
+    "overrides": "",
+    "layouts": null,
+    "logo_file": null,
+    "show_caps": false,
+    "show_pcbs": false,
+    "resin": false,
+    "nrows": 5,
+    "ncols": 6,
+    "alpha": 0.26179916666666664,
+    "beta": 0.08726638888888888,
+    "centercol": 3,
+    "centerrow_offset": 3,
+    "tenting_angle": 0.24479916666666665,
+    "symmetry": "symmetric",
+    "column_style_gt5": "orthographic",
+    "column_style": "standard",
+    "shift_column": 0,
+    "full_last_rows": false,
+    "all_last_rows": false,
+    "keyboard_z_offset": 11,
+    "thumb_style": "MINI",
+    "other_thumb": "MINI",
+    "right_side_only": false,
+    "default_1U_cluster": true,
+    "pinky_1_5U": false,
+    "first_1_5U_row": 0,
+    "last_1_5U_row": 5,
+    "extra_width": 2.5,
+    "extra_height": 0.5,
+    "wall_z_offset": 15,
+    "wall_x_offset": 5,
+    "wall_y_offset": 6,
+    "left_wall_x_offset": 12,
+    "left_wall_z_offset": 3,
+    "left_wall_lower_y_offset": 0,
+    "left_wall_lower_z_offset": 0,
+    "wall_thickness": 4.5,
+    "wall_base_y_thickness": 4.5,
+    "wall_base_x_thickness": 4.5,
+    "wall_base_back_thickness": 4.5,
+    "fixed_angles": [
+        0.17453277777777776,
+        0.17453277777777776,
+        0,
+        0,
+        0,
+        -0.26179916666666664,
+        -0.26179916666666664
+    ],
+    "fixed_x": [
+        -41.5,
+        -22.5,
+        0,
+        20.3,
+        41.4,
+        65.5,
+        89.6
+    ],
+    "fixed_z": [
+        12.1,
+        8.3,
+        0,
+        5,
+        10.7,
+        14.5,
+        17.5
+    ],
+    "fixed_tenting": 0.0,
+    "plate_style": "NOTCH",
+    "hole_keyswitch_height": 14.0,
+    "hole_keyswitch_width": 14.0,
+    "nub_keyswitch_height": 14.4,
+    "nub_keyswitch_width": 14.4,
+    "undercut_keyswitch_height": 14.0,
+    "undercut_keyswitch_width": 14.0,
+    "notch_width": 5.0,
+    "sa_profile_key_height": 12.7,
+    "sa_length": 18.5,
+    "sa_double_length": 37.5,
+    "plate_thickness": 4.6,
+    "web_thickness": 4.6,
+    "plate_rim": 1.75,
+    "undercut_transition": 0.2,
+    "plate_file": null,
+    "oled_mount_type": null,
+    "post_size": 0.1,
+    "post_adj": 0,
+    "screws_offset": "INSIDE",
+    "magnet_bottom": false,
+    "block_bottoms": false,
+    "screw_insert_height": 5,
+    "screw_insert_bottom_radius": 2.03,
+    "screw_insert_top_radius": 2.02,
+    "wire_post_height": 7,
+    "wire_post_overhang": 3.5,
+    "wire_post_diameter": 2.6,
+    "screw_hole_diameter": 3.1,
+    "base_thickness": 3.0,
+    "base_offset": 3.0,
+    "base_rim_thickness": 3.0,
+    "screw_cbore_diameter": 6.0,
+    "screw_cbore_depth": 2.0,
+    "controller_mount_type": "EXTERNAL",
+    "controller_side": "both",
+    "external_holder_height": 12.5,
+    "external_holder_width": 28.75,
+    "external_holder_xoffset": -2.85,
+    "external_holder_yoffset": -6.4,
+    "column_offsets": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            2.82,
+            -4.5
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            -6,
+            5
+        ],
+        [
+            0,
+            -6,
+            5
+        ],
+        [
+            0,
+            -6,
+            5
+        ],
+        [
+            0,
+            -6,
+            5
+        ],
+        [
+            0,
+            -6,
+            5
+        ]
+    ],
+    "screw_offsets": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ]
+}

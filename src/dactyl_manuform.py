@@ -1,5 +1,3 @@
-import datetime
-
 import numpy as np
 from numpy import pi
 import os.path as path
@@ -138,8 +136,7 @@ def make_dactyl():
         #     data[item] = override_data[item]
     if overrides_name != "":
         print(f"Importing config overrides for: {overrides_name}")
-        save_path = path.join(save_path, overrides_name)
-        override_file = path.join(save_path, overrides_name + '.json')
+        override_file = os.path.join("src/json/options/", overrides_name + '.json')
         with open(override_file, mode='r') as fid:
             data = load_json(override_file, data, save_path)
 
