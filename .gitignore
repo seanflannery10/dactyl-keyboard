@@ -17,11 +17,7 @@ debug_*
 */__pycache__/*
 *.py[cod]
 *~$*
-things/
-things/*.dxf
-things/*.scad
-things/*.step
-things/*.stl
+things/**/*.txt
 config/
 .iml
 **/*.iml
