@@ -3,8 +3,6 @@
     "save_name": "DM_3x5",
     "nrows": 3,
     "ncols": 5,
-    "thumb_style": "DEFAULT",
-    "other_thumb": "DEFAULT",
     "full_last_rows": true,
     "all_last_rows": true,
     "external_holder_xoffset": -5.0,
