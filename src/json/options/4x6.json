@@ -2,7 +2,5 @@
     "save_dir": "./things/Regular_4x6/",
     "save_name": "DM_4x6",
     "nrows": 4,
-    "ncols": 6,
-    "external_holder_xoffset": -5.0,
-    "external_holder_yoffset": -8.0
+    "ncols": 6
 }

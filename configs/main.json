@@ -110,8 +110,8 @@
     "controller_side": "both",
     "external_holder_height": 12.5,
     "external_holder_width": 28.75,
-    "external_holder_xoffset": -2.85,
-    "external_holder_yoffset": -6.4,
+    "external_holder_xoffset": -5.0,
+    "external_holder_yoffset": -8.0,
     "column_offsets": [
         [
             0,
@@ -135,28 +135,28 @@
         ],
         [
             0,
-            -6,
-            5
+            -12,
+            6
         ],
         [
             0,
-            -6,
-            5
+            -12,
+            6
         ],
         [
             0,
-            -6,
-            5
+            -12,
+            6
         ],
         [
             0,
-            -6,
-            5
+            -12,
+            6
         ],
         [
             0,
-            -6,
-            5
+            -12,
+            6
         ]
     ],
     "screw_offsets": [
